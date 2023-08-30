@@ -35,9 +35,9 @@ This project is a web application that [briefly describe the purpose or main fun
 
 ## Contributors
 
-- [Roi Nahum](https://github.com/roinahum)
-- [Yonatan Cohen](https://github.com/yonatancohen)
-- [Kobi Cohen](https://github.com/kobicohen)
+- [Roi Nahum](https://github.com/roi023023)
+- [Yonatan Cohen](https://github.com/yonatan62862)
+- [Kobi Cohen](https://github.com/kobico13)
 
 ## License
 
