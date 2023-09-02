@@ -31,6 +31,20 @@ app.use(express.static(__dirname + '/public'));//working with public folder
 app.use(cors());//dont need to know
 app.use(express.json());//json format
 
+// Import routes:
+const homeRoute = require('./routes/hompage');
+
+
+// Use routes:
+app.use('/', homeRoute);
+
+
+
+
+
+
+
+
 //This code would start the HTTP server and listen for incoming connections on the specified 
 //port (or the default port 3000 if PORT environment variable is not set).
 const http = require('http').Server(app);
